@@ -9,6 +9,14 @@ I am looking for engineering co-op opportunities (4-month) starting September-20
 I love giving back to the world all it has given me, I teach meditation and yoga for free and act as a peer counselor in my university for those who needs help with their mental health. I am also a chapter member of Engineers without Borders which serves and advocates humanitarian causes.
 
 Apart from my incessant pursuit of knowledge-I enjoy swimming, writing poetry and classical music.
+
+### Video Tour of my project that won the 500$ first prize from NASDAQ
+
+https://www.youtube.com/watch?v=hhg0cvQ9QP8
+
+This is the Enigma machine simulator, which has its own repository here as well.
+
+
 <!--
 **khpandya/khpandya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
