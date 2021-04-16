@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm a computer engineering student passionate about connecting the theoretical and practical worlds of science.
+I have had the great opportunity to build my own business and personal projects involving programming, superconductors as well as group projects such as Paradigm Hyperloop.
+
+I never stop learning, I have self-developed coding, physics, mathematics and music skills using books and online resources and continue to develop new skills everyday.
+I am looking for engineering co-op opportunities (4-month) starting September-2021 to keep learning from new experiences and move ahead with my passion for engineering.
+
+I love giving back to the world all it has given me, I teach meditation and yoga for free and act as a peer counselor in my university for those who needs help with their mental health. I am also a chapter member of Engineers without Borders which serves and advocates humanitarian causes.
+
+Apart from my incessant pursuit of knowledge-I enjoy swimming, writing poetry and classical music.
 <!--
 **khpandya/khpandya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
