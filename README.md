@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm a computer engineering student passionate about connecting the theoretical and practical worlds of science.
-I have had the great opportunity to build my own business and learn from internships at innovative companies like Tesla.
+I'm a software developer passionate about connecting the theoretical and practical worlds of science.
+I have had the great opportunity to build my own business and learn from working at innovative companies like Tesla/AWS/Palantir.
 
-I love giving back to the world all it has given me, I teach meditation and yoga for free and act as a peer counselor in my university for those who needs help with their mental health. I am also a chapter member of Engineers without Borders which serves and advocates humanitarian causes.
+I love giving back to the world all it has given me, I teach meditation and yoga for free and act as a peer counselor for those who needs help with their mental health. I am also a chapter member of Engineers without Borders which serves and advocates humanitarian causes.
 
 Apart from my incessant pursuit of knowledge-I enjoy swimming, writing poetry and classical music.
 
